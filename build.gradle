@@ -10,7 +10,6 @@ buildscript {
         // NOTE: Do not place your application dependencies here; they belong  宋冰倩666
         //ljq
         //李梦凡666
-        //zhya
 
         // NOTE: Do not place your application dependencies here; they belong  宋冰倩888
 
@@ -22,6 +21,7 @@ allprojects {
     repositories {
         google()
         jcenter()
+        //zzzz
     }
 }
 
