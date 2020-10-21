@@ -9,6 +9,9 @@ buildscript {
 
         // NOTE: Do not place your application dependencies here; they belong  宋冰倩666
         //ljq
+
+        // NOTE: Do not place your application dependencies here; they belong  宋冰倩888
+
         // in the individual module build.gradle files
     }
 }
